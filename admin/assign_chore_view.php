@@ -8,7 +8,7 @@ include_once '../function/get_all_assignment_fxn.php';
 include_once '../function/assigner_fxn.php';
 // include_once '../action/delete_assignment_action.php';
 
-// check_login();
+check_login();
 ?>
 
 <!DOCTYPE html>
